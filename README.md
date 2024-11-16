@@ -11,6 +11,6 @@
 | 게시글 삭제    | /api/post/{postId} | DELETE | auth           |                                                                             | ```{ "result": "SUCCESS", "data": true }```                                                                                                                   |                 |
 
 - USE CASE
-  ![USE_CASE](/usecase.png)
+  ![USE_CASE](/usecase2.png)
 - ERD
   ![ERD](/ERD.png)
